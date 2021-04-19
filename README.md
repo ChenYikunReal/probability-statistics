@@ -1,4 +1,4 @@
-﻿# probability_theory_and_mathematical_statistics
+﻿# 概率论与数理统计学习资料分享
 
 2019-2020秋季学期的考核方式和高等数学一样：
 - 平时成绩10'
